@@ -675,7 +675,7 @@ header .navbar ul li a:hover {
 }
 
 .project-box img {
-  width: 100%;
+  width: 20%;
   height: auto;
   border-radius: 10px;
   margin-bottom: 10px;
@@ -733,7 +733,7 @@ header .navbar ul li a:hover {
   }
 
   .project-box {
-      width: 100%;
+      width: 20%;
   }
 }
 
